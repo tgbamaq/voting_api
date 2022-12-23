@@ -1,11 +1,3 @@
 {
-  "voting":[
-    {
-      "id": 0,
-      "client" : "",
-      "quote": "",
-      "group" : "",
-      "vote": ""
-    }
-  ]
+  "voting":[]
 }
